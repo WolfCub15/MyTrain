@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\nastya\desktop\mytrain\mytrain\mytrain\line.h(34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\nastya\desktop\mytrain\mytrain\mytrain\line.h(35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Chain.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  MyTrain.vcxproj -> C:\Users\Nastya\Desktop\MyTrain\MyTrain\Debug\MyTrain.exe
